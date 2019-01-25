@@ -10,7 +10,7 @@ Optimization Method:
 
 Integration: Explicit Euler || RK4
 
-Demo:
+Demo:<br>
 <img src="demo/quasi-static/bfgs/bfgs2.jpg" width=50%>
 
 <img src="demo/quasi-static/bfgs/bfgs4.jpg" width=50%>
